@@ -36,7 +36,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from transformers import AutoTokenizer
 
 from langchain_community.document_loaders import PDFPlumberLoader
-filename = "NCERT_CLASS_11_CHEMISTRY_1.pdf"
+filename = "StudyGPT_knowledgeBase.pdf"
 loader = PDFPlumberLoader(filename)
 documents = loader.load()
 
