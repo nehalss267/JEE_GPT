@@ -20,18 +20,6 @@ It uses:
 - Simple **Gradio UI** for interaction.
 
 ---
-
-## 📂 Project Structure
-```
-
-StudyGPT/
-│-- StudyGPT\_knowledgeBase.pdf   # Your study material (can be PDF/TXT)
-│-- app.py                       # Main Python app
-│-- requirements.txt             # Dependencies
-│-- README.md                    # This file
-
-````
-
 ---
 
 ## ⚡ Setup Instructions
