@@ -1,4 +1,3 @@
-```markdown
 # 📘 StudyGPT – JEE Doubt Clearing Assistant
 
 StudyGPT is an AI-powered **JEE (Joint Entrance Examination) tutor** that clears student doubts in **Physics, Chemistry, and Mathematics**.  
