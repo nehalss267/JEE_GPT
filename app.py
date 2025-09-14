@@ -1,8 +1,8 @@
-!pip install gradio langchain langchain_community langchain_milvus transformers pymilvus
-!pip install sentence-transformers
-!pip install google-generativeai langchain-google-genai
-!pip install pypdf
-!pip install pdfplumber
+pip install gradio langchain langchain_community langchain_milvus transformers pymilvus
+pip install sentence-transformers
+pip install google-generativeai langchain-google-genai
+pip install pypdf
+pip install pdfplumber
 from langchain_community.document_loaders import PDFPlumberLoader
 from langchain_community.document_loaders import PyPDFLoader
 import os
